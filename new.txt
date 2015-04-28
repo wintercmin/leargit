@@ -7,6 +7,5 @@ creat a new branch is quick & simpl.
 creat a new branch is quick & simple.
 
 >>>>>>> feature1
-
-
+git is free.
 
